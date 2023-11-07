@@ -1,0 +1,55 @@
+
+1. Data Sources:
+•	Power BI can connect to a wide range of data sources, including databases (SQL Server, Oracle, MySQL), cloud-based services (Azure, Salesforce, Google Analytics), on-premises data,
+Excel files, web services, and more.
+
+2. Power Query:
+•	Power Query is the data transformation and data loading component of Power BI. It allows you to connect to various data sources, transform and shape data using a graphical interface, 
+and load it into the data model.
+
+3. Data Model:
+•	   The data model is the heart of Power BI and consists of tables, relationships, calculated columns, and measures. Power BI uses an in-memory data engine to store
+and manage the data model efficiently.
+
+4. Data Analysis Expressions (DAX):
+•	   DAX is a formula language used to create custom calculations, measures, and calculated columns within the data model. It provides advanced capabilities for data analysis
+and modeling.
+
+5. Report Layout:
+•	    In Power BI Desktop, you design the layout of your reports and dashboards. This includes selecting visuals (charts, tables, maps, etc.), arranging them on pages,
+and defining interactivity.
+
+6. Visualizations:
+•	    Power BI offers a rich library of pre-built data visualizations, and you can also integrate custom visuals from the marketplace. Visualizations allow you to
+represent data in a visually compelling and interactive manner.
+
+7. Power BI Desktop:
+•	    Power BI Desktop is the Windows application used for creating and designing reports and dashboards. It's where you build the data model, create visuals, 
+and define report layouts.
+
+8. Publishing:
+•	    After creating reports in Power BI Desktop, you can publish them to the Power BI Service. The publishing process makes your reports available in the 
+cloud for sharing and collaboration.
+
+9. Power BI Service:
+•	    Power BI Service is the cloud-based platform where you can publish, share, and collaborate on reports and dashboards. It offers features like automatic data refresh, 
+sharing with others, and dashboard creation.
+
+10. Data Gateways:
+•	     Power BI allows you to connect to on-premises data sources using data gateways. These gateways establish secure connections between the cloud-based Power BI
+Service and on-premises data.
+
+11. Row-Level Security:
+•	     Power BI enables you to implement row-level security to restrict access to data based on user roles and permissions.
+
+12. Mobile Apps:
+•	     Power BI provides mobile apps for iOS and Android devices, allowing users to access and interact with reports and dashboards on the go.
+
+13. APIs and Embedding:
+•	     Power BI offers APIs that allow developers to integrate and embed Power BI reports and dashboards into custom applications, websites, and portals.
+
+14. Dataflow and Data Warehouse Integration:
+•	    Power BI supports dataflows for data preparation and transformation. It can also integrate with data warehouses and big data platforms
+for more extensive data processing and analysis.
+
+
