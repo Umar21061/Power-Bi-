@@ -1,0 +1,64 @@
+1. Databases:
+•	SQL Server
+•	    Azure SQL Database
+•	    Oracle
+•	    MySQL
+•	    PostgreSQL
+•	    IBM Db2
+•	    Teradata
+•	    Amazon Redshift
+•	    Google BigQuery
+•	    Snowflake
+•	    SAP HANA
+•	    And more
+
+2. Files:
+•	    Excel (.xlsx, .xls)
+•	    CSV (Comma-Separated Values)
+•	    XML
+•	    JSON
+•	    Text files
+•	    Access databases
+•	    PDF (using Power Query)
+•	   Folder (for data in multiple files)
+
+3. Cloud Services:
+•	    Azure Data Lake Storage
+•	    Azure Blob Storage
+•	    Azure SQL Data Warehouse
+•	    Azure Cosmos DB
+•	    Azure Table Storage
+•	    SharePoint Online
+•	    OneDrive for Business
+•	    Salesforce
+•	    Google Analytics
+•	    Google Sheets
+•	    Amazon Web Services (AWS) data sources
+•	    Facebook
+•	    Dynamics 365
+•	   Adobe Analytics
+•	    Web services via API
+•	   And more
+
+4. On-Premises Data:
+•	   Power BI Gateway is used to connect to on-premises data sources, including databases, file shares, and more.
+
+5. Dataflows:
+•	    Power BI dataflows allow you to ingest data from various sources, transform and cleanse it, and store it for reuse in Power BI reports and dashboards.
+
+6. Web Data Sources:
+•	    You can connect to web-based data sources by importing data from web pages, tables, or HTML tables.
+
+7. Big Data:
+•	    Power BI can connect to big data sources and platforms, such as Hadoop (Hive and HDFS) and Spark.
+
+8. Custom Data Connectors:
+•	    You can create custom data connectors to connect to specialized or proprietary data sources.
+
+9. DirectQuery and Live Connection:
+•	   Power BI supports DirectQuery and Live Connection to certain data sources, allowing you to query data in real-time without importing it into the data model.
+	
+10. Streaming Data:
+•	 Power BI supports real-time streaming data from sources like Azure Stream Analytics, IoT devices, and custom APIs.
+
+
