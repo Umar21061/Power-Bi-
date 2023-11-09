@@ -1,0 +1,78 @@
+
+Getting Started:
+1. Download Power BI Desktop: Install Power BI Desktop, the free desktop application used for report creation.
+
+2. Get Data:
+•	Click "Get Data" to connect to various data sources like Excel, SQL, Web, etc.
+
+3. Data Transformation:
+•	   - Use Power Query to clean, transform, and shape data.
+
+Data Modeling:
+1. Tables:
+•	   - Create tables to structure your data.
+•	   - Define relationships between tables.
+
+2. DAX (Data Analysis Expressions):
+•	   - Learn DAX functions for calculations and aggregations.
+•	   - Measure vs. Calculated Column.
+
+3. Hierarchies:
+•	   - Create hierarchies for better drill-down capabilities.
+
+Data Visualization:
+1. Visualizations:
+•	    Add charts, tables, maps, and more.
+•	    Customize visuals with the formatting options.
+
+2. Filters and Slicers:
+•	    Add filters to limit data displayed.
+•	    Use slicers for interactive filtering.
+3. Drill-Through:
+•	    Set up drill-through actions for detailed exploration.
+
+4. Bookmarks:
+•	    Create bookmarks for interactive storytelling.
+
+Reports and Dashboards:
+1. Pages:
+•	    Organize visuals into different pages.
+•	    Rename, duplicate, or delete pages.
+
+2. Report Layout:
+•	    Adjust page size and layout options.
+•	   Add background images and shapes.
+3. Dashboards:
+•	    Publish reports to Power BI Service.
+•	    Create interactive dashboards with multiple reports.
+
+
+1. Publishing:
+•	    Publish reports to Power BI Service.
+•	    Set up a refresh schedule for live data.
+
+2. Sharing:
+•	    Share reports with specific users or groups.
+•	    Share dashboards for broader access.
+
+3. Embed:
+•	   -Embed Power BI reports and dashboards in websites or apps.
+
+Advanced Topics:
+1. Power Query M Language:
+•	    Learn M language for advanced data transformations.
+
+2. Row-level Security:
+•	    Implement security roles to restrict data access.
+
+3. Custom Visuals:
+•	    Explore and use custom visuals from the marketplace
+4. Power BI Service:
+•	    Familiarize with the cloud-based Power BI Service for sharing and collaboration.
+
+Keyboard Shortcuts:
+•	 Ctrl + S: Save the report.
+•	 Ctrl + D: Duplicate selected visual.
+•	 Ctrl + C / Ctrl + V: Copy and paste visuals.
+•	 Ctrl + Z: Undo action.
+•	 Ctrl + Y: Redo action.
