@@ -1,0 +1,38 @@
+1. Data Sources:
+•	Power BI can connect to a variety of data sources, including Excel, databases, cloud services, and more.
+•	    Import or direct query methods are commonly used to bring in data.
+
+2. Data Transformation:
+•	 Power Query Editor is a powerful tool within Power BI that allows you to clean, transform, and shape your data.
+•	You can remove duplicates, filter data, split columns, and perform various transformations to make your data suitable for analysis.
+
+3. Data Modeling:
+•	  Power BI uses a tabular data model, which involves organizing data into tables and establishing relationships between them.
+•	  Understanding relationships is crucial for creating accurate and meaningful visualizations.
+
+4. DAX (Data Analysis Expressions):
+•	 DAX is a formula language used in Power BI for creating custom calculations and aggregations.
+•	 It allows you to create calculated columns, measures, and calculated tables to derive new information from existing data.
+
+5. Measures and Calculations:
+•	Measures are dynamic calculations based on the data in your model. They are often used in creating key performance indicators (KPIs) and other business metrics.
+•	Calculated columns are columns you create based on a formula that operates on the row context of the table.
+
+6. Visualizations:
+•	 Power BI offers a wide range of visualization options, including charts, tables, maps, and more.
+•	 You can create dashboards that combine multiple visualizations to tell a comprehensive data story.
+
+7. Row-level Security:
+•	Power BI allows you to implement row-level security to control data access at the row level based on user roles and filters.
+
+8. Data Refresh:
+•	 Power BI enables you to schedule automatic data refresh to keep your reports up-to-date with the latest information from your data sources.
+
+9. Publishing and Sharing:
+•	Once your model and reports are ready, you can publish them to the Power BI service for sharing with others.
+•	 Power BI service provides collaboration features and allows you to create and share dashboards.
+
+10. Power BI Service:
+•	The Power BI service is the cloud-based platform where you can host, share, and collaborate on Power BI reports and dashboards.
+
+
