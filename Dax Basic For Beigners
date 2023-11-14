@@ -1,0 +1,57 @@
+DAX Formulas:
+•	   DAX formulas are used to create custom calculations in Power BI.
+•	   Formulas are written in a formula bar and can reference columns, tables, and other DAX functions.
+Common DAX Functions:
+•	   Mathematical Functions:
+  SUM, AVERAGE, MIN, MAX, etc.
+
+•	   Statistical Functions:
+
+   COUNTROWS, SUMX, AVERAGEX, etc.
+•	   Text Functions:
+
+  LEFT, RIGHT, CONCATENATE, etc.
+
+•	   Date and Time Functions:
+
+  TODAY, NOW, YEAR, MONTH, DAY, etc.
+
+•	   Filter Functions:
+
+    FILTER, ALL, ALLEXCEPT, RELATED, etc.
+
+•	Logical Functions:
+
+   IF, AND, OR, NOT, etc.
+
+Calculated Columns:
+   •	Calculated columns are used to add new columns to a table based on a DAX formula.
+   •	These columns are calculated row by row at the time of data refresh.
+
+Measures:
+   •	Measures are used for creating aggregations or calculations based on the data in the model.
+   •	Unlike calculated columns, measures are not stored in the data model but are calculated on the fly.
+
+Row Context and Filter Context:
+     Understanding context is crucial in DAX.
+   • Row Context:
+      Refers to the current row of the table in which the formula is being evaluated.
+   • Filter Context:
+     Refers to the set of filters that are applied to the data before the formula is evaluated.
+
+Relationships:
+   •	 Relationships define how tables are related to each other.
+   •	 Relationships are established based on common columns between tables.
+
+
+Time Intelligence:
+    •	 DAX has specialized functions for time-based calculations, such as TOTALYTD, TOTALQTD, TOTALMTD, etc.
+
+Variables:
+    •	Variables allow you to store intermediate results in a formula, making it more readable and efficient.
+
+Error Handling:
+     •	DAX provides functions like `IFERROR` and `ISERROR` for error handling in formulas.
+
+Context Transition:
+     •	DAX can transition between row context and filter context, and understanding this is essential for writing complex formulas.
