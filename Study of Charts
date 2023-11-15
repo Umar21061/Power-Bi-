@@ -1,0 +1,32 @@
+
+Column Chart:
+•	Description: Displays data in vertical columns. Useful for comparing values across categories.
+•	Use Cases: Comparing sales across different products or analyzing revenue by month.
+2.	Bar Chart:
+•	Description: Similar to a column chart, but with horizontal bars. Suitable for comparing values across categories.
+•	Use Cases: Comparing the performance of different sales representatives or analyzing expenses by department.
+3.	Line Chart:
+•	Description: Represents data points with a series of lines, helpful for illustrating trends over time.
+•	Use Cases: Showing the trend of stock prices over months or tracking website traffic over a year.
+4.	Area Chart:
+•	Description: Similar to a line chart but fills the area beneath the line, emphasizing the magnitude of values.
+•	Use Cases: Displaying the proportion of total sales contributed by different product categories over time.
+5.	Pie Chart:
+•	Description: Circular statistical graphic that is divided into slices to illustrate numerical proportions.
+•	Use Cases: Showing the percentage distribution of sales across different regions or product categories.
+6.	Doughnut Chart:
+•	Description: Similar to a pie chart but with a hole in the center. Useful for displaying the parts of a whole.
+•	Use Cases: Illustrating the distribution of budget across expense categories or the market share of different competitors.
+7.	Scatter Plot:
+•	Description: Displays individual data points on a two-dimensional graph, helpful for identifying relationships between variables.
+•	Use Cases: Analyzing the correlation between advertising spending and sales revenue or plotting customer satisfaction scores against product usage.
+8.	Bubble Chart:
+•	Description: Similar to a scatter plot, but with the addition of bubble size to represent a third dimension of data.
+•	Use Cases: Comparing the revenue, profit, and market share of different products in a single chart.
+9.	Map:
+•	Description: Displays data points on a map to visualize geographic patterns.
+•	Use Cases: Analyzing regional sales performance or plotting the distribution of customers across different locations.
+10.	Gauge:
+•	Description: Represents data on a circular gauge with a needle pointing to a specific value.
+•	Use Cases: Displaying key performance indicators (KPIs) such as completion rates or progress toward a target.
+
